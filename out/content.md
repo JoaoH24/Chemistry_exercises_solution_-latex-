@@ -4,18 +4,18 @@
 
     a. Sea $n_1 = 2$ y $n_2 = 3 \rightarrow \infty$ pertenecientes al
     espectro visible, entonces: $$\begin{split}
-                    \frac{1}{486 \times 10^{-9}m } &= 1.097 \times 10^{7}m^{-1} \left(\frac{1}{2^{2}} - \frac{1}{n_2^{2}}\right) \\
-                        n_2 &= 4.0021\\
-                        n_2 &\thickapprox 4 \\
+                    \frac{1}{486 \times 10^{-9}m }  = 1.097 \times 10^{7}m^{-1} \left(\frac{1}{2^{2}} - \frac{1}{n_2^{2}}\right) \\
+                        n_2  = 4.0021\\
+                        n_2  \thickapprox 4 \\
                 \end{split}$$
 
     b. Si $\lambda = 570nm$ en el espectro visible, entonces:
 
     $$
     \begin{split}
-                        \frac{1}{570 \times 10^{-9}m } &= 1.097 \times 10^{7}m^{-1} \left(\frac{1}{2^{2}} - \frac{1}{n_x^{2}}\right) \\
-                        n_x &= 3.3320\\
-                        n_x &\thickapprox 3 \\
+                        \frac{1}{570 \times 10^{-9}m }  = 1.097 \times 10^{7}m^{-1} \left(\frac{1}{2^{2}} - \frac{1}{n_x^{2}}\right) \\
+                        n_x  = 3.3320\\
+                        n_x  \thickapprox 3 \\
         \end{split}
     $$
 
@@ -26,14 +26,14 @@
 
     a. Sea un electrón $e$ con masa $m_e = 9.1 \times 10^{-31}Kg$ con
     una velocidad $v = 7000Km/s$ $$\begin{split}
-                        \Delta x (9.1 \times 10^{-28}g) (210m/s) &\geqslant \frac{6.626 \times 10^{-34}J.s}{4\pi}\\
-                        \Delta x &\geqslant 2.76 \times 10^{-10}m
+                        \Delta x (9.1 \times 10^{-28}g) (210m/s)  \geqslant \frac{6.626 \times 10^{-34}J.s}{4\pi}\\
+                        \Delta x  \geqslant 2.76 \times 10^{-10}m
                     \end{split}$$
 
     b. Sea un proyectil $p$ con masa $m_p = 50g$ con una velocidad
     $v = 300m/s$ $$\begin{split}
-                        \Delta x (50g) (0.009m/s) &\geqslant \frac{6.626 \times 10^{-34}J.s}{4\pi}\\
-                        \Delta x &\geqslant 1.17 \times 10^{-34}m
+                        \Delta x (50g) (0.009m/s)  \geqslant \frac{6.626 \times 10^{-34}J.s}{4\pi}\\
+                        \Delta x  \geqslant 1.17 \times 10^{-34}m
                 \end{split}$$
 
 3.  **Solución:** Sea el ion ${C_{(g)}}^{5+}$ con
@@ -41,14 +41,14 @@
 
     a. Para la longitud de onda de la cuarta linea de Brakett,
     entonces: $n_1 = 4$ y $n_2 = 8$ $$\begin{split}
-                        \frac{1}{\lambda} &= (1.09733 \times 10^{7}m^{-1})(12^{2}) \left(\frac{1}{4^{2}} - \frac{1}{8^{2}} \right)\\
-                        \lambda &= 1.35 \times 10^{-8}m
+                        \frac{1}{\lambda}  = (1.09733 \times 10^{7}m^{-1})(12^{2}) \left(\frac{1}{4^{2}} - \frac{1}{8^{2}} \right)\\
+                        \lambda  = 1.35 \times 10^{-8}m
                     \end{split}$$
 
     b. La longitud de onda del quinto nivel de energía en el espectro
     de Brakett, entonces: $n_1 = 4$ y $n_2 = 5$ $$\begin{split}
-                        \frac{1}{\lambda} &= (1.09733 \times 10^{7}m^{-1})(12^{2}) \left(\frac{1}{4^{2}} - \frac{1}{5^{2}} \right)\\
-                        \lambda &= 2.81 \times 10^{-8}m
+                        \frac{1}{\lambda}  = (1.09733 \times 10^{7}m^{-1})(12^{2}) \left(\frac{1}{4^{2}} - \frac{1}{5^{2}} \right)\\
+                        \lambda  = 2.81 \times 10^{-8}m
                 \end{split}$$
 
 4.  **Solución:** Sea una onda que incide sobre una superficie de
@@ -58,23 +58,23 @@
 
     a. $$
         \begin{split}
-                        \phi &= \frac{(6.626 \times 10^{-34}J.s)(3 \times 10^{8}m/s)}{4500 \times 10^{-10}m} - 3.36 \times 10^{-19}J\\
-                        \phi &= 1.057 \times 10^{-19}J
+                        \phi  = \frac{(6.626 \times 10^{-34}J.s)(3 \times 10^{8}m/s)}{4500 \times 10^{-10}m} - 3.36 \times 10^{-19}J\\
+                        \phi  = 1.057 \times 10^{-19}J
                     \end{split}
         $$
 
     b. $$
         \begin{split}
-                        \phi &= h\upsilon_{umbral}\\
-                        1.057 \times 10^{-19}J &= (6.626 \times 10^{-34}J.s)\upsilon_{umbral}\\
-                        \upsilon_{umbral} &= 1.60 \times 10^{14}s^{-1}
+                        \phi  = h\upsilon_{umbral}\\
+                        1.057 \times 10^{-19}J  = (6.626 \times 10^{-34}J.s)\upsilon_{umbral}\\
+                        \upsilon_{umbral}  = 1.60 \times 10^{14}s^{-1}
                     \end{split}
         $$
 
     c. $$
         \begin{split}
-                        \lambda_{m\acute{a}x} &= \frac{3 \times 10^{8}m/s}{1.6 \times 10^{14}s^{-1}}\\
-                        \lambda_{m\acute{a}x} &= 1.88 \times 10^{-6}m
+                        \lambda_{m\acute{a}x}  = \frac{3 \times 10^{8}m/s}{1.6 \times 10^{14}s^{-1}}\\
+                        \lambda_{m\acute{a}x}  = 1.88 \times 10^{-6}m
                     \end{split}
         $$
 
@@ -82,17 +82,17 @@
 
     a. $$
         \begin{split}
-                        E_{fotones} &= 13.527 eV\\
-                        \lambda  &= \frac{(6.626 \times 10^{-34}J.s)(3 \times 10^{8}m/s)}{2.16 \times 10^{-18}J}\\
-                        \lambda  &= 9.20 \times 10^{-8}m
+                        E_{fotones}  = 13.527 eV\\
+                        \lambda   = \frac{(6.626 \times 10^{-34}J.s)(3 \times 10^{8}m/s)}{2.16 \times 10^{-18}J}\\
+                        \lambda   = 9.20 \times 10^{-8}m
         \end{split}$$
     Calculando la constante $R_H$ para el átomo de hidrógeno:
 
     $$
     \begin{split}
-                        \frac{1}{\lambda} &= R_H \left( \frac{1}{n^{2}}\right)\\
-                        \frac{1}{9.20 \times 10^{-8}m} &= R_H \left( \frac{1}{1^{2}}\right)\\
-                        R_H &= 1.087 \times 10^{-7} m^{-1}
+                        \frac{1}{\lambda}  = R_H \left( \frac{1}{n^{2}}\right)\\
+                        \frac{1}{9.20 \times 10^{-8}m}  = R_H \left( \frac{1}{1^{2}}\right)\\
+                        R_H  = 1.087 \times 10^{-7} m^{-1}
                     \end{split}
     $$
 
@@ -101,22 +101,22 @@
 
     a. $$
         \begin{split}
-                        \upsilon &= \frac{3 \times 10^{8}m/s}{25m}\\
-                        \upsilon &= 1.2 \times 10^{7}s^{-1}
+                        \upsilon  = \frac{3 \times 10^{8}m/s}{25m}\\
+                        \upsilon  = 1.2 \times 10^{7}s^{-1}
                     \end{split}
         $$
 
     b. $$
         \begin{split}
-                        E_{fotones} &= (6.626 \times 10^{-34}J.s)(1.2 \times 10^{7}s^{-1})\\
-                        E_{fotones} &= 7.95 \times 10^{-27}J
+                        E_{fotones}  = (6.626 \times 10^{-34}J.s)(1.2 \times 10^{7}s^{-1})\\
+                        E_{fotones}  = 7.95 \times 10^{-27}J
                     \end{split}
         $$
 
     c. Fotones emitidos por hora con potencia de
     $6KW = 6 \times 10^{3} J/s$ $$\begin{split}
-                        n(fotones) &= \frac{3600s ( 6 \times 10^{3} J/s)}{7.95 \times 10^{-27}J}\\
-                        n(fotones) &= 2.72 \times 10^{33}
+                        n(fotones)  = \frac{3600s ( 6 \times 10^{3} J/s)}{7.95 \times 10^{-27}J}\\
+                        n(fotones)  = 2.72 \times 10^{33}
                     \end{split}$$
 
 7.  **Solución:** Sabemos que $\phi = 7.52 \times 10^{-19}J$ y que la
@@ -124,8 +124,8 @@
 
     a. $$
         \begin{split}
-                        E_{km\acute{a}x} &= \frac{(6.626 \times 10^{-34}J.s)(3 \times 10^{8}m/s)}{36 \times 10^{-9}m} -  7.52 \times 10^{-19}J\\
-                        E_{km\acute{a}x} &= 4.77 \times 10^{-18}J
+                        E_{km\acute{a}x}  = \frac{(6.626 \times 10^{-34}J.s)(3 \times 10^{8}m/s)}{36 \times 10^{-9}m} -  7.52 \times 10^{-19}J\\
+                        E_{km\acute{a}x}  = 4.77 \times 10^{-18}J
                     \end{split}
         $$
 
@@ -134,27 +134,27 @@
 
     a. $$
         \begin{split}
-                        E &= 4.16 \times 10^{-19}J = 2.18 \times 10^{-18} \left(\frac{1}{n_1^{2}} - \frac{1}{4^{2}}\right)\\
-                        n_1 &= 1.98
+                        E  = 4.16 \times 10^{-19}J = 2.18 \times 10^{-18} \left(\frac{1}{n_1^{2}} - \frac{1}{4^{2}}\right)\\
+                        n_1  = 1.98
                         n_1 \thickapprox 2
                     \end{split}
         $$
 
     b. $$
         \begin{split}
-                        n\lambda & = 2\pi r_n\\
-                        4\lambda & = 2\pi r_4\\
-                        \lambda & = \frac{2\pi r_4}{4}\\
-                        \lambda & = \frac{\pi r_4}{2}
+                        n\lambda   = 2\pi r_n\\
+                        4\lambda   = 2\pi r_4\\
+                        \lambda   = \frac{2\pi r_4}{4}\\
+                        \lambda   = \frac{\pi r_4}{2}
                     \end{split}
         $$
 
     c. $$
         \begin{split}
-                        r_n &= \frac{n^2}{z}a_0\\
-                        r_4 - r_2 &= 16a_0 - 4a_0\\
-                        r_4 - r_2 &= 12a_0\\
-                        \Delta r &= 12(0.529) = 6.348
+                        r_n  = \frac{n^2}{z}a_0\\
+                        r_4 - r_2  = 16a_0 - 4a_0\\
+                        r_4 - r_2  = 12a_0\\
+                        \Delta r  = 12(0.529) = 6.348
                     \end{split}
         $$
 
@@ -164,8 +164,8 @@
 
     a. $$
         \begin{split}
-                        \lambda &= \frac{6.626 \times 10^{-34}J.s}{\sqrt{2(9.1 \times 10^{-31}Kg)(1.6 \times 10^{-19}C)(400V)}}\\
-                        \lambda &= 6.14 \times 10{-11}m
+                        \lambda  = \frac{6.626 \times 10^{-34}J.s}{\sqrt{2(9.1 \times 10^{-31}Kg)(1.6 \times 10^{-19}C)(400V)}}\\
+                        \lambda  = 6.14 \times 10{-11}m
                     \end{split}
         $$
 

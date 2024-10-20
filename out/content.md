@@ -87,32 +87,34 @@
                         \lambda  &= 9.20 \times 10^{-8}m
         \end{split}$$
     Calculando la constante $R_H$ para el átomo de hidrógeno:
-    $$\begin{split}
+
+    $$
+    \begin{split}
                         \frac{1}{\lambda} &= R_H \left( \frac{1}{n^{2}}\right)\\
                         \frac{1}{9.20 \times 10^{-8}m} &= R_H \left( \frac{1}{1^{2}}\right)\\
                         R_H &= 1.087 \times 10^{-7} m^{-1}
                     \end{split}
-        $$
+    $$
 
 6.  **Solución:** Sea una estación de radio que emite
     $\lambda_{emisi\acute{o}n} = 25m$
 
-    1.  $$
+    a. $$
         \begin{split}
                         \upsilon &= \frac{3 \times 10^{8}m/s}{25m}\\
                         \upsilon &= 1.2 \times 10^{7}s^{-1}
                     \end{split}
         $$
 
-    2.  $$
+    b. $$
         \begin{split}
                         E_{fotones} &= (6.626 \times 10^{-34}J.s)(1.2 \times 10^{7}s^{-1})\\
                         E_{fotones} &= 7.95 \times 10^{-27}J
                     \end{split}
         $$
 
-    3.  Fotones emitidos por hora con potencia de
-        $6KW = 6 \times 10^{3} J/s$ $$\begin{split}
+    c. Fotones emitidos por hora con potencia de
+    $6KW = 6 \times 10^{3} J/s$ $$\begin{split}
                         n(fotones) &= \frac{3600s ( 6 \times 10^{3} J/s)}{7.95 \times 10^{-27}J}\\
                         n(fotones) &= 2.72 \times 10^{33}
                     \end{split}$$
@@ -120,7 +122,7 @@
 7.  **Solución:** Sabemos que $\phi = 7.52 \times 10^{-19}J$ y que la
     $\lambda_{incidente} = 36 \times 10^{-9}m$ $$E_{inc} = \phi + E_k$$
 
-    1.  $$
+    a. $$
         \begin{split}
                         E_{km\acute{a}x} &= \frac{(6.626 \times 10^{-34}J.s)(3 \times 10^{8}m/s)}{36 \times 10^{-9}m} -  7.52 \times 10^{-19}J\\
                         E_{km\acute{a}x} &= 4.77 \times 10^{-18}J
@@ -130,7 +132,7 @@
 8.  **Solución:** Se sabe que el $e^{-}$ se encuentra en el cuarto nivel
     de energía y emite una energía $E = 4.16 \times 10^{-19}J$
 
-    1.  $$
+    a. $$
         \begin{split}
                         E &= 4.16 \times 10^{-19}J = 2.18 \times 10^{-18} \left(\frac{1}{n_1^{2}} - \frac{1}{4^{2}}\right)\\
                         n_1 &= 1.98
@@ -138,7 +140,7 @@
                     \end{split}
         $$
 
-    2.  $$
+    b. $$
         \begin{split}
                         n\lambda & = 2\pi r_n\\
                         4\lambda & = 2\pi r_4\\
@@ -147,7 +149,7 @@
                     \end{split}
         $$
 
-    3.  $$
+    c. $$
         \begin{split}
                         r_n &= \frac{n^2}{z}a_0\\
                         r_4 - r_2 &= 16a_0 - 4a_0\\
@@ -160,7 +162,7 @@
     $\lambda = \frac{h}{p}$, entonces podemos inferir la siguiente
     formula: $$\lambda = \frac{h}{\sqrt{2m_{e}e^{-}V_0}}$$
 
-    1.  $$
+    a. $$
         \begin{split}
                         \lambda &= \frac{6.626 \times 10^{-34}J.s}{\sqrt{2(9.1 \times 10^{-31}Kg)(1.6 \times 10^{-19}C)(400V)}}\\
                         \lambda &= 6.14 \times 10{-11}m
@@ -214,7 +216,7 @@
 20. **Solución:**\
     Sean los elementos:
 
-    1.  $$
+    a. $$
         \begin{split}
                         Ag^{+}: [Kr]5s^{1}4d^{10} \to \left(5,0,0,+\frac{1}{2}\right)\\
                         O^{2-}: [He]2s^{2}2p^{2} \to \left(2,1,0,+\frac{1}{2}\right)\\
@@ -222,7 +224,7 @@
                     \end{split}
         $$
 
-    2.  $$
+    b. $$
         \begin{split}
                         Ag^{+}: [Kr]5s^{1}4d^{10} ; (Paramagn\acute{e}tico)\\
                         O^{2-}: [He]2s^{2}2p^{2} ; (Paramagn\acute{e}tico)\\
